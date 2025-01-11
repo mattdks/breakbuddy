@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Taking a Stroll",
+    "description": "Take a walk during your break.",
+    "points": 10
+  },
+  {
+    "name": "Helping Hand",
+    "description": "Respond to another buddy's question.",
+    "points": 12
+  },
+  {
+    "name": "Study Streak",
+    "description": "Reach a study streak of 3.",
+    "points": 15
+  },
+  {
+    "name": "Mindfulness Session",
+    "description": "Complete a mindfulness session.",
+    "points": 20
+  },
+  {
+    "name": "Hydrate",
+    "description": "Drink 3 glasses of water.",
+    "points": 8
+  },
+  {
+    "name": "Declutter",
+    "description": "Organize your workspace.",
+    "points": 12
+  },
+  {
+    "name": "Gratitude Journal",
+    "description": "Write down 3 things you're grateful for.",
+    "points": 6
+  },
+  {
+    "name": "Stretch Break",
+    "description": "Do 5 minutes of stretching exercises.",
+    "points": 7
+  },
+  {
+    "name": "Healthy Snack",
+    "description": "Eat a healthy snack.",
+    "points": 5
+  },
+  {
+    "name": "Deep Breathing",
+    "description": "Practice deep breathing for 5 minutes.",
+    "points": 9
+  }
+]

@@ -1,0 +1,140 @@
+{
+  "categories": [
+    {
+      "name": "Colors",
+      "items": [
+        {
+          "name": "Default",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/Original.png?v=1733376296306",
+          "altText": "Default",
+          "points": "Owned"
+        },
+        {
+          "name": "Red",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/Red.png?v=1731989489496",
+          "altText": "Red",
+          "points": 10
+        },
+        {
+          "name": "Orange",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/Orange.png?v=1731989490003",
+          "altText": "Orange",
+          "points": 10
+        },
+        {
+          "name": "Yellow",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/Yellow.png?v=1731989494752",
+          "altText": "Yellow",
+          "points": 10
+        },
+        {
+          "name": "Green",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/Green.png?v=1731989496865",
+          "altText": "Green",
+          "points": 10
+        },
+        {
+          "name": "Blue",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/Blue.png?v=1731989499572",
+          "altText": "Blue",
+          "points": 10
+        },
+        {
+          "name": "Pink",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/Pink.png?v=1731989501902",
+          "altText": "Pink",
+          "points": 10
+        },
+        {
+          "name": "Peach",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/Peach.png?v=1732154596080",
+          "altText": "Peach",
+          "points": 20
+        },
+        {
+          "name": "Teal",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/Teal.png?v=1732154607758",
+          "altText": "Teal",
+          "points": 20
+        },
+        {
+          "name": "Light Blue",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/Light%20Blue.png?v=1732154593490",
+          "altText": "Light Blue",
+          "points": 20
+        },
+        {
+          "name": "Grape",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/Grape.png?v=1732154604399",
+          "altText": "Grape",
+          "points": 20
+        },
+        {
+          "name": "Grey",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/Grey.png?v=1732154599276",
+          "altText": "Grey",
+          "points": 40
+        },
+        {
+          "name": "Purple Blue",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/Purple-Blue%20Gradiant.png?v=1732154611744",
+          "altText": "Purple Blue Gradiant",
+          "points": 40
+        },
+        {
+          "name": "Cotton Candy",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/Pink-Purple%20Gradiant.png?v=1732154615162",
+          "altText": "Cotton Candy",
+          "points": 40
+        },
+        {
+          "name": "Grapefruit",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/Pink-Orange%20Gradiant.png?v=1732154616868",
+          "altText": "Grapefruit",
+          "points": 40
+        }
+      ]
+    },
+    {
+      "name": "Accessories",
+      "items": [
+        {
+          "name": "No Accessory",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/empty_overlay.png?v=1732774686767",
+          "altText": "No Accessory",
+          "points": "Owned"
+        },
+        {
+          "name": "Coffee Cup",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/coffee_overlay.png?v=1732774689728",
+          "altText": "Coffee Cup",
+          "points": 10
+        },
+        {
+          "name": "Mustache",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/mustache_overlay.png?v=1732774695630",
+          "altText": "Mustache",
+          "points": 20
+        },
+        {
+          "name": "Cowboy Hat",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/cowboy_overlay.png?v=1732774691695",
+          "altText": "Cowboy Hat",
+          "points": 25
+        },
+        {
+          "name": "Pirate Hat",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/pirate_new.png?v=1733009862073",
+          "altText": "Pirate Hat",
+          "points": 30
+        },
+        {
+          "name": "Crown",
+          "image": "https://cdn.glitch.global/3774e2e9-58a5-41b3-9d45-62c8b63bc41c/crown_new.png?v=1733010292531",
+          "altText": "Crown",
+          "points": 100
+        }
+      ]
+    }
+  ]
+}
