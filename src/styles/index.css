@@ -1,0 +1,179 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+/* General Styles */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #91caef;
+  color: #333333;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Logo */
+.logo {
+/*   width: 100%; */
+  max-height: 85vw;
+  width: auto;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+/* Header */
+header {
+  width: 100%;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+  width: 100%;
+  padding: 10px 0px;
+}
+
+.get-started-btn {
+  background-color: #2c5671;
+  color: #ffffff;
+  border: none;
+  padding: 20px 20px;
+  border-radius: 8px;
+  font-size: 30px;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: background-color 0.3s;
+}
+
+.get-started-btn:hover {
+  background-color: #214257;
+}
+
+#down a {
+  color: white;
+  font-size: 50px;
+  opacity: 50%;
+  text-shadow: 1px 1px 5px #204b66;
+}
+
+#down a:hover { 
+  transition: opacity 0.5s;
+  opacity: 1;
+}
+
+/* Character */
+.character img {
+  width: 50%;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 500;
+  color: #204b66;
+  margin-bottom: 20px;
+}
+
+/* Content Section */
+.content {
+  width: 100%;
+  max-width: 85%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.content h1{
+  font-size: 60px;
+  text-align: center;
+  margin: 20px 0 40px;
+}
+
+.info {
+  margin-bottom: 40px;
+}
+
+.info h2 {
+  font-size: 28px;
+  font-weight: 800;
+  color: #326588;
+  margin-bottom: 3px;
+}
+
+/*White text*/
+.info h2 strong {
+  color: #ffffff;
+   text-shadow: 1px 1px 5px #204b66;
+  position: relative;
+  top: -1px;
+  /*font-weight: 500;*/
+}
+
+.info p {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #333333;
+}
+
+.quote {
+  margin-bottom: 20px;
+  font-size: 1rem;
+  color: #333333;
+}
+
+.quote p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #333333;
+}
+
+.quote p:first-child {
+  font-style: italic;
+  font-size: 1.1rem;
+  color: #2c5671;
+  margin-bottom: 5px;
+}
+
+hr {
+  border: 2px solid white;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width: 999px) { 
+  #down a { 
+    display: none; 
+  } 
+}
+
+@media screen and (max-width: 480px) { 
+  .character img {
+    display: none; 
+  } 
+  .flex-container {
+  display: flex;
+  justify-content: center;
+  }
+  #learn-more {
+  font-size: 2.5rem;
+  margin: 1rem 0;
+  text-align: left;
+  font-weight: 650;
+}
+  .section h2{
+    margin-bottom: 0.5rem;
+  }
+
+}

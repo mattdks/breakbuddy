@@ -1,0 +1,100 @@
+{
+  "activities": [
+    {
+      "name": "Stretching",
+      "length": ["5", "10"],
+      "stress": ["1", "2", "3"],
+      "location": ["home", "school", "outdoors"]
+    },
+    {
+      "name": "Do a puzzle",
+      "length": ["20", "30"],
+      "stress": ["1"],
+      "location": ["home"]
+    },
+    {
+      "name": "Take a walk",
+      "length": ["10", "20", "30"],
+      "stress": ["2", "3"],
+      "location": ["home", "school", "outdoors"]
+    },
+    {
+      "name": "Call a family member or friend",
+      "length": ["20", "30"],
+      "stress": ["2"],
+      "location": ["home", "school", "outdoors", "cafe"]
+    },
+    {
+      "name": "Meditate",
+      "length": ["5", "10"],
+      "stress": ["1", "2", "3"],
+      "location": ["home", "library", "outdoors"]
+    },
+    {
+      "name": "Journal your thoughts",
+      "length": ["20", "30"],
+      "stress": ["1"],
+      "location": ["home", "school", "outdoors", "cafe", "library"]
+    },
+    {
+      "name": "Do a load of laundry",
+      "length": ["30"],
+      "stress": ["1", "2"],
+      "location": ["home"]
+    },
+    {
+      "name": "Do a quick workout",
+      "length": ["20", "30"],
+      "stress": ["1"],
+      "location": ["home", "outdoors"]
+    },
+    {
+      "name": "Purchase a treat",
+      "length": ["5", "10"],
+      "stress": ["2", "3"],
+      "location": ["cafe"]
+    },
+    {
+      "name": "Read a book",
+      "length": ["20", "30"],
+      "stress": ["1","2"],
+      "location": ["home", "school", "outdoors", "cafe", "library"]
+    },
+    {
+      "name": "Listen to a calming playlist",
+      "length": ["10","20"],
+      "stress": ["1","2","3"],
+      "location": ["home", "school", "library"]
+    },
+    {
+      "name": "Sketch or doodle in a notebook",
+      "length": ["5","10"],
+      "stress": ["1"],
+      "location": ["school", "library"]
+    },
+    {
+      "name": "Observe nature",
+      "length": ["5","10"],
+      "stress": ["2","3"],
+      "location": ["outdoors"]
+    },
+    {
+      "name": "Declutter or decorate your room",
+      "length": ["20","30"],
+      "stress": ["1"],
+      "location": ["home"]
+    },
+    {
+      "name": "Make a snack",
+      "length": ["10"],
+      "stress": ["1","2"],
+      "location": ["home"]
+    },
+    {
+      "name": "Watch an episode of a TV show",
+      "length": ["30"],
+      "stress": ["2","3"],
+      "location": ["home", "library"]
+    }
+  ]
+}

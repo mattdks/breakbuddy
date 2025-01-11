@@ -1,0 +1,26 @@
+{
+  "prompts": [
+    { "text": "What are you grateful for today?" },
+    { "text": "Describe a challenge you overcame recently." },
+    { "text": "What made you smile today?" },
+    { "text": "Write about a memory that inspires you." },
+    { "text": "What is a goal you want to achieve this week?" },
+    { "text": "What’s one habit you'd like to develop, and why?"},
+    { "text": "Who inspires you to do your best? Have you told them that?"},
+    { "text": "What’s a skill you’ve always wanted to learn, and why?" },
+    { "text": "If you could relive one moment from the past week, what would it be?" },
+    { "text": "What does your ideal day look like?" },
+    { "text": "Describe a person who has had a significant impact on your life." },
+    { "text": "What’s a small win you’re proud of today?" },
+    { "text": "What’s something you recently discovered that excites you?" },
+    { "text": "Write about a place that feels like home to you." },
+    { "text": "What’s a fear you’ve overcome, and how did you do it?" },
+    { "text": "What’s something you’ve done recently to help someone else?" },
+    { "text": "What’s one lesson you’ve learned from failure?" },
+    { "text": "Describe your favorite childhood memory and why it’s special to you." },
+    { "text": "What motivates you to keep going on tough days?" },
+    { "text": "What’s one thing you’re doing today to work toward a long-term goal?" },
+    { "text": "How do you show love or appreciation to others?" },
+    { "text": "What’s a piece of advice you’d give to your younger self?" }
+  ]
+}
